@@ -89,7 +89,13 @@
 }
 
 /* contact */
-.contactColumn {
+
+#contact {
+    color: white;
+    background-color: black;
+}
+
+.contactColumn {    
     display: flex;
     flex-direction: column;
     align-items: center;
