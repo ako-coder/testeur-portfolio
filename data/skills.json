@@ -1,10 +1,5 @@
 [     
     {
-        "image": "gestion-de-projet.avif",
-        "title": "Gestion de projet",
-        "text": "Analyse des besoins d’un client, définition d’une solution technique répondant aux besoins fonctionnels, planification du projet"
-    },   
-    {
         "image": "test.avif",
         "title": "Test",
         "text": "Tests exploratoires, unitaires et d’intégration, définition d’une stratégie de test et rédaction d’un cahier de recette, automatisation de tests E2E et d’API"
@@ -13,6 +8,11 @@
         "image": "cy.avif",
         "title": "Cypress",
         "text": "Analyse de besoins en automatisation de tests, automatisation via des scripts, rédaction de bilan de campagne de tests automatisés"
+    },
+    {
+        "image": "gestion-de-projet.avif",
+        "title": "Gestion de projet",
+        "text": "Analyse des besoins d’un client, définition d’une solution technique répondant aux besoins fonctionnels, planification du projet"
     },
     {
         "image": "html-css.avif",
